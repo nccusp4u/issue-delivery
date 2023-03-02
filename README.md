@@ -1,5 +1,7 @@
 # 議題物流平台：商城式的參與校務治理體驗
 
+* 0302 Kick-off Meeting｜https://docs.google.com/document/d/1JtLwniq1omWy37leENl53GL1RzaufQAUof0A1D2yG34/edit?usp=sharing
+
 ```「將想向學校表達的事物，簡易實現於生活中。」```
 
 現場簡報版｜[議題物流平台：商城式的參與校務治理體驗.pdf](https://github.com/nccusp4u/issue-delivery/blob/main/%E8%AD%B0%E9%A1%8C%E7%89%A9%E6%B5%81%E5%B9%B3%E5%8F%B0%EF%BC%9A%E5%95%86%E5%9F%8E%E5%BC%8F%E7%9A%84%E5%8F%83%E8%88%87%E6%A0%A1%E5%8B%99%E6%B2%BB%E7%90%86%E9%AB%94%E9%A9%97.pdf)
